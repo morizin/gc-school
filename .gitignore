@@ -7,7 +7,7 @@ venv/
 .env
 
 # ML Model Weights
-*.h5
+# *.h5
 
 # IDE
 .vscode/
